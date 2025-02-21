@@ -1,7 +1,5 @@
 title: 大模型工程师成长中心
 theme: jekyll-theme-slate
-defaults:
-  scope: path: "" 
 layout: default
 exclude:
   Gemfile
